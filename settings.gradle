@@ -1,0 +1,12 @@
+rootProject.name = 'spring-boot-gradle'
+include 'first-spring-boot'
+include 'spring-boot-swagger'
+include 'spring-boot-jdbc'
+include 'spring-boot-mybatis'
+include 'spring-boot-dubbo-provider'
+include 'spring-boot-dubbo-api'
+include 'spring-boot-dubbo-consumer'
+include 'spring-boot-jpa'
+include 'spring-boot-redis'
+include 'spring-boot-druid'
+
